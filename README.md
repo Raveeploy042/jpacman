@@ -4,8 +4,6 @@
 ![Branches](.github/badges/branches.svg)
 
 
-[![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
-
 ## About
 
 Pacman-like game used for teaching software testing.
